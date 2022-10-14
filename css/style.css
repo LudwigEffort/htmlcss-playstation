@@ -11,3 +11,8 @@ header  {
 .top_logo img    {
     height: 30px;
 }
+
+.search_logo    {
+    display: inline-block;
+    width: 100%;
+}

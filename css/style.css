@@ -23,3 +23,19 @@ body    {
     background-size: cover;
     background-position: center;
 }
+
+.jumbo_it {
+    padding: 100px 0 100px;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg_new_releases    {
+    background-color: #1E1E1E;
+}
+
+.second_section_grid img {
+    border-radius: 1rem;
+    margin-bottom: 0.5rem;
+}

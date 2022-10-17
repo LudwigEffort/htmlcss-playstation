@@ -48,3 +48,30 @@ body    {
     margin-top: 1rem;
     background-color: #161C3B;
 }
+
+.bg_footer  {
+    background-color: #00439C;
+}
+
+.footer_ps_logo {
+    font-size: 1.5rem;
+}
+
+.footer_ps_logo img {
+    width: 100px;
+    margin-bottom: 2rem;
+}
+
+.bg_footer li {
+    list-style: none;
+}
+
+.bg_footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer_sie_logo img    {
+    max-width: 20%;
+    margin-bottom: 1rem;
+}

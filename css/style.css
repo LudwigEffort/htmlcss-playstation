@@ -43,3 +43,8 @@ body    {
 .bg_playplus    {
     background-color: #BEBCBB;
 }
+
+.bg_play_now    {
+    margin-top: 1rem;
+    background-color: #161C3B;
+}

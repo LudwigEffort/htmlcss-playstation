@@ -75,3 +75,101 @@ body    {
     max-width: 20%;
     margin-bottom: 1rem;
 }
+
+/* Buttons */
+
+/* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; */
+
+nav .btn-primary    {
+    background-color: #363636;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #363636;
+}
+
+nav .btn:hover  {
+    background-color: #363636;
+    border: 2px solid white;
+    box-shadow: 0px 1px 4px #363636, 0px 0px 0px 3px #363636;
+}
+
+.jumbo .btn-secondary    {
+    background-color: #CD3D0F;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #CD3D0F;
+}
+
+.jumbo .btn:hover  {
+    background-color: #CD3D0F;
+    border: 2px solid black;
+    box-shadow: 0px 1px 4px #CD3D0F, 0px 0px 0px 3px #CD3D0F;
+}
+
+.first_section .btn-secondary    {
+    background-color: #2D64E6;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #2D64E6;
+}
+
+.first_section .btn:hover  {
+    background-color: #2D64E6;
+    border: 2px solid white;
+    box-shadow: 0px 1px 4px #363636, 0px 0px 0px 3px #363636;
+}
+
+.second_section .btn-secondary    {
+    background-color: #CD3D0F;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #CD3D0F;
+}
+
+.second_section .btn:hover  {
+    background-color: #CD3D0F;
+    border: 2px solid #363636;
+    box-shadow: 0px 1px 4px #CD3D0F, 0px 0px 0px 3px #CD3D0F;
+}
+
+.third_section .ps4_container .btn-secondary    {
+    background-color: #2D64E6;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #2D64E6;
+}
+
+.third_section .ps4_container .btn:hover  {
+    background-color: #2D64E6;
+    border: 2px solid white;
+    box-shadow: 0px 1px 4px #363636, 0px 0px 0px 3px #363636;
+}
+
+.third_section .btn-secondary    {
+    background-color: #D9DADC;
+    color: #2D64E6;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #D9DADC;
+}
+
+.third_section .btn:hover  {
+    background-color: #D9DADC;
+    border: 2px solid #D9DADC;
+    box-shadow: 0px 1px 4px #D9DADC, 0px 0px 0px 3px #D9DADC;
+}
+
+.fourth_section .btn-secondary    {
+    background-color: #D9DADC;
+    color: #1E1E1E;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid #D9DADC;
+}
+
+.fourth_section .btn:hover  {
+    background-color: #D9DADC;
+    border: 2px solid #1E1E1E;
+    box-shadow: 0px 1px 4px #D9DADC, 0px 0px 0px 3px #D9DADC;
+}
